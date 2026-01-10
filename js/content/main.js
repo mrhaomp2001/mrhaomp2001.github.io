@@ -66,9 +66,6 @@ jQuery(function ($) {
         "[[b;white;black]" + "\nChào mừng bạn đến với WIT - Witch International Technology!]\n" +
         "[[b;white;black]" +"\nNhập ']" + "[[ib;yellow;black]" + "help]" + "[[b;white;black]" + "' để hiển thị các lệnh hiện có. \n]",
 
-      onBlur: function () {
-        return false;
-      },
       prompt: "/> ",
     }
   );
